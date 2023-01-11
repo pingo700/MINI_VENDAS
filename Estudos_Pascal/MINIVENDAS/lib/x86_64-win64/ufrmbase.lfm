@@ -1,0 +1,39 @@
+object frmBase: TfrmBase
+  Left = 552
+  Height = 240
+  Top = 361
+  Width = 437
+  Caption = 'frmBase'
+  ClientHeight = 240
+  ClientWidth = 437
+  LCLVersion = '2.2.2.0'
+  object ToolBar1: TToolBar
+    Left = 0
+    Height = 50
+    Top = 0
+    Width = 437
+    ButtonHeight = 50
+    ButtonWidth = 50
+    Caption = 'ToolBar1'
+    Images = Dm.Imagens24
+    ShowCaptions = True
+    TabOrder = 0
+    object ToolButton1: TToolButton
+      Left = 1
+      Top = 2
+      Action = acFechar
+    end
+  end
+  object acAcoes: TActionList
+    Images = Dm.Imagens24
+    Left = 48
+    Top = 64
+    object acFechar: TAction
+      Caption = 'Fechar'
+      Hint = 'Fechar formulário'
+      ImageIndex = 0
+      OnExecute = acFecharExecute
+      ShortCut = 16499
+    end
+  end
+end

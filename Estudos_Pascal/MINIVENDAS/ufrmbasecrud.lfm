@@ -1,0 +1,84 @@
+inherited frmBaseCRUD: TfrmBaseCRUD
+  Left = 633
+  Height = 600
+  Top = 817
+  Width = 800
+  ClientHeight = 600
+  ClientWidth = 800
+  inherited ToolBar1: TToolBar
+    Width = 800
+    object ToolButton2: TToolButton[1]
+      Left = 51
+      Height = 50
+      Top = 2
+      Caption = 'ToolButton2'
+      Style = tbsSeparator
+    end
+    object ToolButton3: TToolButton[2]
+      Left = 59
+      Top = 2
+      Caption = 'ToolButton3'
+    end
+  end
+  object GroupBox1: TGroupBox[1]
+    Left = 10
+    Height = 105
+    Top = 60
+    Width = 780
+    Align = alTop
+    BorderSpacing.Around = 10
+    Caption = 'Filtro inicial'
+    Font.Height = -11
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+  end
+  object PageControl1: TPageControl[2]
+    Left = 10
+    Height = 425
+    Top = 175
+    Width = 780
+    ActivePage = tsListagem
+    Align = alClient
+    BorderSpacing.Left = 10
+    BorderSpacing.Top = 10
+    BorderSpacing.Right = 10
+    TabIndex = 0
+    TabOrder = 2
+    object tsListagem: TTabSheet
+      Caption = '&Listagem'
+      ClientHeight = 397
+      ClientWidth = 772
+      object dbgDados: TDBGrid
+        Left = 10
+        Height = 377
+        Top = 10
+        Width = 752
+        Align = alClient
+        BorderSpacing.Around = 10
+        Color = clWindow
+        Columns = <>
+        TabOrder = 0
+      end
+    end
+    object tsDetalhe: TTabSheet
+      Caption = '&Detalhe'
+    end
+  end
+  inherited acAcoes: TActionList[3]
+    Left = 760
+    Top = 8
+    object acIncluir: TAction[1]
+      Category = 'CRUD'
+      Caption = 'Incluir'
+      Hint = 'Incluir novo registro'
+      OnExecute = acIncluirExecute
+      ShortCut = 16457
+    end
+  end
+  object dsDados: TDataSource[4]
+    AutoEdit = False
+    Left = 696
+    Top = 8
+  end
+end

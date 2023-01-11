@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="MINI_VENDAS.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="30" Y="21"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufrmprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmPrincipal"/>
+        <TopLine Value="12"/>
+        <CursorPos X="35" Y="32"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Dm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="uDm"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="19" Y="15"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufrmbase.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmBase"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmBase"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="16" Y="13"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\TDINoteBook\tdiclass.pas"/>
+        <UnitName Value="TDIClass"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="536"/>
+        <CursorPos Y="552"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmBaseCRUD"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmBaseCRUD"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="30" Y="16"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="ufrmprincipal.pas"/>
+        <Caret Line="17" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmprincipal.pas"/>
+        <Caret Line="13" Column="83"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmprincipal.pas"/>
+        <Caret Line="15" Column="71"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmprincipal.pas"/>
+        <Caret Line="13" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="udm.pas"/>
+        <Caret Line="11" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="udm.pas"/>
+        <Caret Line="16" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="udm.pas"/>
+        <Caret Line="17" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="udm.pas"/>
+        <Caret Line="7" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="14" Column="64" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="22" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="8" Column="58"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="15" Column="58"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="13" Column="30" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="8" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmprincipal.pas"/>
+        <Caret Line="16" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmprincipal.pas"/>
+        <Caret Line="9" Column="62"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="6" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbase.pas"/>
+        <Caret Line="38" Column="13" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="15" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="21" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="20" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="21" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="3" Column="66"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="22" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="23" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="16" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="18" Column="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="10" Column="10" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmbasecrud.pas"/>
+        <Caret Line="24" Column="16" TopLine="6"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
